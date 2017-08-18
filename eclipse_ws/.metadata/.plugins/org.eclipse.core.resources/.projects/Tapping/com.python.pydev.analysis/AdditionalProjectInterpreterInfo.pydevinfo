@@ -1,0 +1,92 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\Users\mjmccain\Google Drive\Professional\NML\Leap Dev\eclipse_ws\.metadata\.plugins\org.eclipse.core.resources\.projects\Tapping\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+tap_visual|0|C:\Users\mjmccain\Google Drive\Professional\NML\Leap Dev\eclipse_ws\Tapping\src\tap_visual.py
+Tapping_0.35|0|C:\Users\mjmccain\Google Drive\Professional\NML\Leap Dev\eclipse_ws\Tapping\src\Tapping_0.35.py
+visual|0|C:\Users\mjmccain\Google Drive\Professional\NML\Leap Dev\eclipse_ws\Tapping\src\visual.py
+pytest|0|C:\Users\mjmccain\Google Drive\Professional\NML\Leap Dev\eclipse_ws\Tapping\src\pytest.py
+nml|0|C:\Users\mjmccain\Google Drive\Professional\NML\Leap Dev\eclipse_ws\Tapping\src\nml.py
+Tapping_0.4|0|C:\Users\mjmccain\Google Drive\Professional\NML\Leap Dev\eclipse_ws\Tapping\src\Tapping_0.4.py
+-- END DISKCACHE
+-- START DICTIONARY
+7
+7=TapListener
+4=Tapping_0.35
+3=tap_visual
+2=visual
+6=TapListener.on_init
+5=nml
+1=Tapping_0.4
+-- END DICTIONARY
+-- START TREE 1
+63
+all|2|all_data!11@all_trials!11@
+bla|3|BLACK!11@BLACK!19@BLACK!27@
+blu|2|BLUE!27@BLUE!11@
+bot|2|BOT_LINE!11@BOT_LINE!27@
+box|3|box!19@box!11@box!27@
+buf|3|BUFF!11@BUFF!27@BUFF!19@
+c|3|c!11@c!27@c!19@
+cho|1|choice!27@
+clo|1|clock!19@
+con|3|controller!19@controller!11@controller!27@
+cou|2|counter!11@counter!27@
+cur|3|CURSOR!27@CURSOR!11@CURSOR!19@
+d|2|d!27@d!19@
+dat|2|datalog!11@data!35@
+def|6|DEFAULT_FILENAME!11@DEFAULT_FILENAME!27@DEFAULT_FILENAME!35@DEFAULT_TIMER!27@DEFAULT_TIMER!11@DEFAULT_TIMER!35@
+err|1|error!27@
+fil|3|filename!27@filename!11@files!27@
+fin|3|finger!27@finger!11@finger_positions_to_list!42@
+fir|2|first!11@first!27@
+fon|6|FONT_SIZE!11@FONT_SIZE!19@FONT_SIZE!27@font!27@font!19@font!11@
+fra|5|frame!19@frame!11@frame!27@frame_clock!27@frame_clock!11@
+gap|2|GAP!27@GAP!11@
+gre|3|GREEN!19@GREEN!11@GREEN!27@
+h|3|h!11@h!27@h!19@
+han|1|hand!19@
+hig|1|high!11@
+int|1|interaction_height!42@
+is_|2|is_number!42@is_in_interaction_box!42@
+lis|2|listener!27@listener!11@
+low|1|low!11@
+mai|1|main!34@
+mar|2|MARGIN!27@MARGIN!11@
+msg|1|msg!11@
+new|1|new_num!27@
+num|1|num!27@
+pas|2|past_down!27@past_down!11@
+pos|3|pos!11@pos!27@pos!19@
+ppm|1|PPMM!11@
+pro|1|prompt!27@
+rea|2|ready!11@ready!27@
+red|3|RED!19@RED!27@RED!11@
+rev|1|reverse!27@
+run|4|running!19@running!27@run_timestamp!11@running!11@
+scr|12|SCREEN_X!11@SCREEN_X!27@SCREEN_X!19@screen_size!11@screen!19@SCREEN_Y!11@SCREEN_Y!27@screen!11@SCREEN_Y!19@screen_size!27@screen_size!19@screen!27@
+sta|2|start!27@start!11@
+str|3|STROKE!27@STROKE!11@STROKE!19@
+suc|2|SUCCESSES!11@SUCCESSES!27@
+t|1|t!27@
+tap|3|TapListener!9@TapListener!33@TapListener!25@
+tex|6|text!19@text!27@textpos!11@textpos!27@text!11@textpos!19@
+tim|2|timer_string!27@timer!27@
+top|2|TOP_LINE!11@TOP_LINE!27@
+tri|2|trials!27@trials!11@
+two|1|two_choice_input_loop!42@
+w|3|w!11@w!19@w!27@
+whi|3|WHITE!19@WHITE!11@WHITE!27@
+wri|2|writeFile!27@writeFile!11@
+x|3|x!11@x!19@x!27@
+xc|3|xc!11@xc!19@xc!27@
+y|3|y!27@y!11@y!19@
+yc|3|yc!19@yc!11@yc!27@
+z|3|z!19@z!27@z!11@
+zc|3|zc!11@zc!19@zc!27@
+-- END TREE
+-- START TREE 2
+2
+dat|2|data!6&27@data!6&11@
+on_|5|on_init!7&26@on_init!7&10@on_frame!7&34@on_frame!7&26@on_frame!7&10@
+-- END TREE

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Clock Game/src/ClockGame_1.0.py&apos; to &apos;ClockGame_1.1.py&apos;" description="Rename resource &apos;ClockGame_1.0.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/ClockGame_1.0.py" name="ClockGame_1.1.py" stamp="1383068976988" updateReferences="true"/>
+</session>
